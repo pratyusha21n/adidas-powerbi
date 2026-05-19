@@ -1,4 +1,4 @@
-# Power-BI---Adidas
+# Power-BIAdidas
 
 # Adidas US Sales Analysis – Power BI Project
 
